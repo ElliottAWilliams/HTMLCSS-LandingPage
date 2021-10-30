@@ -109,6 +109,16 @@ font-size: 16px;
 color: #364147;
 }
 
+.header-nav{
+    border-bottom: #a0a0a0;
+    size: 10px;
+}
+
+.brand {
+size: ;
+}
+
+
 h1,
 h2,
 h3,
